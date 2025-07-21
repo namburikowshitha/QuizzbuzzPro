@@ -1,0 +1,30 @@
+Java,What is JVM?,Java Virtual Machine,Java Value Manager,Java Vendor Machine,A
+Java,Which keyword is used to inherit a class?,extends,implements,inherits,A
+Java,Which method is the entry point in Java?,main(),start(),run(),A
+Java,Size of int in Java?,2 bytes,4 bytes,8 bytes,B
+Java,Can we overload the main method?,Yes,No,Only once,A
+Java,Which is not an OOP principle?,Inheritance,Encapsulation,Compilation,C
+Java,Which operator is used for object reference?,->,.,::,B
+Java,Which collection allows duplicates?,Set,Map,List,C
+Java,String is ___?,Immutable,Mutable,Constant,A
+Java,What does JVM stand for?,Java Virtual Machine,Java Vendor Model,Java Verified Mode,A
+Python,What is the output of 3*'abc'?,abcabcabc,abc3,Error,A
+Python,Which data type is immutable?,List,Set,Tuple,C
+Python,What does len() return?,Length of string,list index,Sum of list,A
+Python,What symbol is used for comment?,#,//,<!--,A
+Python,Which keyword is used for function?,def,func,define,A
+Python,Which module is used for math operations?,math,cmath,random,A
+Python,Which loop is not present in Python?,for,foreach,while,B
+Python,Python is ___ typed?,Statically,Dynamically,Manually,B
+Python,How to define a dictionary?,{},[],(),A
+Python,Which of the following is not keyword?,elif,pass,define,C
+SQL,SQL stands for?,Structured Query Language,Simple Query Logic,System Query Layer,A
+SQL,Which clause is used for filtering?,WHERE,SELECT,FROM,A
+SQL,Which function gives row count?,SUM(),AVG(),COUNT(),C
+SQL,What does PRIMARY KEY mean?,Unique & Not Null,Duplicate Allowed,Nullable,A
+SQL,To sort records use?,ORDER BY,GROUP BY,HAVING,A
+SQL,Which clause groups rows?,ORDER BY,GROUP BY,WHERE,B
+SQL,To get unique values use?,DISTINCT,UNIQUE,ONLY,A
+SQL,Which join gives all rows from both?,INNER JOIN,LEFT JOIN,FULL OUTER JOIN,C
+SQL,Which keyword updates data?,CHANGE,MODIFY,UPDATE,C
+SQL,Which function gives max value?,HIGHEST(),MAX(),GREATEST(),B
